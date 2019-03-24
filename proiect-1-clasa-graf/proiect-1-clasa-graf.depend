@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1553444474 source:e:\proiect_poo\proiect-1-clasa-graf\main.cpp
+	<iostream>
+	"Graf.h"
+	"Queue.h"
+	"Stack.h"
+
+1553442125 e:\proiect_poo\proiect-1-clasa-graf\graf.h
+	"Queue.h"
+	<iostream>
+
+1553444416 source:e:\proiect_poo\proiect-1-clasa-graf\graf.cpp
+	"Graf.h"
+	"Queue.h"
+	"Stack.h"
+	<iostream>
+
+1553373582 e:\proiect_poo\proiect-1-clasa-graf\queue.h
+	"Graf.h"
+
+1553372560 source:e:\proiect_poo\proiect-1-clasa-graf\queue.cpp
+	"Queue.h"
+	"Graf.h"
+	<iostream>
+
+1553372617 source:e:\proiect_poo\proiect-1-clasa-graf\stack.cpp
+	"Stack.h"
+	"Graf.h"
+	<iostream>
+
+1553345754 e:\proiect_poo\proiect-1-clasa-graf\stack.h
+	"Graf.h"
+
